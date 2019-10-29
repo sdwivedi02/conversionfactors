@@ -39,7 +39,7 @@ public class conversion {
         String destinationUnit = in.nextString();
 
         System.out.print("Enter a value: ");
-        int value = in.nextInt();
+        int value = in.nextInt();.
       }
 
     }
